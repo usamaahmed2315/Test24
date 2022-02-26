@@ -1,0 +1,21 @@
+253:   ./App1
+0000000000400000      4K r---- App1
+0000000000401000    588K r-x-- App1
+0000000000494000    156K r---- App1
+00000000004bc000     24K rw--- App1
+00000000004c2000     24K rw---   [ anon ]
+00000000021b3000    140K rw---   [ anon ]
+00007f0fbeef7000      4K -----   [ anon ]
+00007f0fbeef8000   8192K rw---   [ anon ]
+00007f0fbf6f8000      4K -----   [ anon ]
+00007f0fbf6f9000   8192K rw---   [ anon ]
+00007f0fbfef9000      4K -----   [ anon ]
+00007f0fbfefa000   8192K rw---   [ anon ]
+00007f0fc06fa000      4K -----   [ anon ]
+00007f0fc06fb000   8192K rw---   [ anon ]
+00007f0fc0efb000      4K -----   [ anon ]
+00007f0fc0efc000   8192K rw---   [ anon ]
+00007ffdf4545000    132K rw---   [ stack ]
+00007ffdf45c6000     16K r----   [ anon ]
+00007ffdf45ca000      4K r-x--   [ anon ]
+ total            42068K

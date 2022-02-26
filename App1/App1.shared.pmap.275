@@ -1,0 +1,40 @@
+275:   ./App1.shared
+0000557e17347000      4K r---- App1.shared
+0000557e17348000      4K r-x-- App1.shared
+0000557e17349000      4K r---- App1.shared
+0000557e1734a000      4K r---- App1.shared
+0000557e1734b000      4K rw--- App1.shared
+0000557e179ca000    132K rw---   [ anon ]
+00007f1ae1e50000      4K -----   [ anon ]
+00007f1ae1e51000   8192K rw---   [ anon ]
+00007f1ae2651000      4K -----   [ anon ]
+00007f1ae2652000   8192K rw---   [ anon ]
+00007f1ae2e52000      4K -----   [ anon ]
+00007f1ae2e53000   8192K rw---   [ anon ]
+00007f1ae3653000      4K -----   [ anon ]
+00007f1ae3654000   8192K rw---   [ anon ]
+00007f1ae3e54000      4K -----   [ anon ]
+00007f1ae3e55000   8204K rw---   [ anon ]
+00007f1ae4658000    136K r---- libc-2.28.so
+00007f1ae467a000   1312K r-x-- libc-2.28.so
+00007f1ae47c2000    304K r---- libc-2.28.so
+00007f1ae480e000      4K ----- libc-2.28.so
+00007f1ae480f000     16K r---- libc-2.28.so
+00007f1ae4813000      8K rw--- libc-2.28.so
+00007f1ae4815000     16K rw---   [ anon ]
+00007f1ae4819000     24K r---- libpthread-2.28.so
+00007f1ae481f000     60K r-x-- libpthread-2.28.so
+00007f1ae482e000     24K r---- libpthread-2.28.so
+00007f1ae4834000      4K r---- libpthread-2.28.so
+00007f1ae4835000      4K rw--- libpthread-2.28.so
+00007f1ae4836000     24K rw---   [ anon ]
+00007f1ae4847000      4K r---- ld-2.28.so
+00007f1ae4848000    120K r-x-- ld-2.28.so
+00007f1ae4866000     32K r---- ld-2.28.so
+00007f1ae486e000      4K r---- ld-2.28.so
+00007f1ae486f000      4K rw--- ld-2.28.so
+00007f1ae4870000      4K rw---   [ anon ]
+00007ffc74939000    132K rw---   [ stack ]
+00007ffc749ac000     16K r----   [ anon ]
+00007ffc749b0000      4K r-x--   [ anon ]
+ total            43400K
